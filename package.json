@@ -1,0 +1,22 @@
+{
+  "name": "mystupidbot2",
+  "version": "1.0.0",
+  "description": "bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "go"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aous2/mystupidbot2.git"
+  },
+  "keywords": [
+    "stupid"
+  ],
+  "author": "aws",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aous2/mystupidbot2/issues"
+  },
+  "homepage": "https://github.com/aous2/mystupidbot2#readme"
+}
