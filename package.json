@@ -2,7 +2,7 @@
   "name": "mystupidbot2",
   "version": "1.0.0",
   "description": "bot",
-  "main": "index.js",
+  "main": "Server.js",
   "scripts": {
     "test": "go"
   },
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/aous2/mystupidbot2/issues"
   },
-  "homepage": "https://github.com/aous2/mystupidbot2#readme"
+  "homepage": "https://github.com/aous2/mystupidbot2#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
 }
