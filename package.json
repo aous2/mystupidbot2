@@ -21,7 +21,9 @@
   },
   "homepage": "https://github.com/aous2/mystupidbot2#readme",
   "dependencies": {
-    "discord.js": "^12.5.3"
+    "discord.js": "^12.5.3",
+    "dotenv": "^9.0.2",
+    "rss-parser": "^3.12.0"
   },
   "engines": {
     "node": "16.0.0",
